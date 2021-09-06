@@ -10,7 +10,7 @@ This creates an Inventory management system stored in a record.json file, one ca
 3. add_items.ipynb contain codes to add new products into inventory.
 4. purchase. ipynb contain codes to make purchase from inventory and create an invoice for consumer and add sales to sales.json.
 
-### Features
+## Features
 1. User can add any number of items into inventory. If an item already exists in the inventory then update the quantity of that item.
 2. Users can purchase any number of items from inventory. So, it will ask the user to enter the number of products he/she wants to purchase.
 3. One can purchase any product base on product ID and the product ID is unique for each product.
